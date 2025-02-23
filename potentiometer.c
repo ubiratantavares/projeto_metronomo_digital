@@ -2,8 +2,8 @@
 #include "hardware/adc.h"
 #include "buttom.h"
 
-#define POTENTIOMETER_PIN 26
-#define POTENTIOMETER_ADC_CHANNEL 0
+#define POTENTIOMETER_PIN 28
+#define POTENTIOMETER_ADC_CHANNEL 2
 
 volatile int bpm = 50;
 

@@ -1,0 +1,5 @@
+/home/bira/pico/projeto_metronomo_digital/build/_deps/picotool/picotool
+/home/bira/pico/projeto_metronomo_digital/build/_deps/picotool/picotoolTargets.cmake
+/home/bira/pico/projeto_metronomo_digital/build/_deps/picotool/picotoolTargets-release.cmake
+/home/bira/pico/projeto_metronomo_digital/build/_deps/picotool/picotoolConfig.cmake
+/home/bira/pico/projeto_metronomo_digital/build/_deps/picotool/picotoolConfigVersion.cmake

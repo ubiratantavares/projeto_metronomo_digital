@@ -1,0 +1,14 @@
+# Target labels
+ picotoolBuild
+# Source files and their labels
+/home/bira/pico/projeto_metronomo_digital/build/CMakeFiles/picotoolBuild
+/home/bira/pico/projeto_metronomo_digital/build/CMakeFiles/picotoolBuild.rule
+/home/bira/pico/projeto_metronomo_digital/build/CMakeFiles/picotoolBuild-complete.rule
+/home/bira/pico/projeto_metronomo_digital/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule
+/home/bira/pico/projeto_metronomo_digital/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule
+/home/bira/pico/projeto_metronomo_digital/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule
+/home/bira/pico/projeto_metronomo_digital/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule
+/home/bira/pico/projeto_metronomo_digital/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule
+/home/bira/pico/projeto_metronomo_digital/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule
+/home/bira/pico/projeto_metronomo_digital/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule
+/home/bira/pico/projeto_metronomo_digital/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule
